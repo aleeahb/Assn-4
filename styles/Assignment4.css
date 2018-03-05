@@ -1,5 +1,12 @@
 body {
     width: 600px;
+    background-color: #136610;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
 section.class1 {background-color: #FFFFCC; visibility: hidden;}
 section.class2 {background-color: #DCDCDC; visibility: hidden;}
